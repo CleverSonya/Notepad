@@ -1,0 +1,79 @@
+2016-03-21 18:57:58:971 TRACE [main]  is set
+2016-03-21 18:57:58:981 TRACE [main]  is set
+2016-03-21 18:57:58:991 TRACE [main]  is set
+2016-03-21 18:57:59:007 TRACE [main]  is set
+2016-03-21 18:57:59:021 TRACE [main] No previously saved tabs to open
+2016-03-21 18:57:59:021 TRACE [main] OpenedTabs information readed succesfully
+2016-03-21 18:58:00:028 TRACE [main] WebLookAndFeel is set
+2016-03-21 18:58:00:028 TRACE [main] MainPanel is declared
+2016-03-21 18:58:00:038 TRACE [AWT-EventQueue-0] editToolBar is declared
+2016-03-21 18:58:00:038 TRACE [main] New document is set
+2016-03-21 18:58:00:048 TRACE [main] Save is set
+2016-03-21 18:58:00:048 TRACE [main] Save As... is set
+2016-03-21 18:58:00:048 TRACE [main] Open is set
+2016-03-21 18:58:00:048 TRACE [main] Undo is set
+2016-03-21 18:58:00:058 TRACE [main] Redo is set
+2016-03-21 18:58:00:058 TRACE [AWT-EventQueue-0] styleToolBar is declared
+2016-03-21 18:58:00:118 TRACE [main] Font data readed successfully
+2016-03-21 18:58:00:205 TRACE [main] Font updated
+2016-03-21 18:58:00:205 TRACE [main] FontChooser is set
+2016-03-21 18:58:00:224 DEBUG [main] NPE in FontSizeChooser block during initialization
+2016-03-21 18:58:00:224 TRACE [main] FontSizeChooser is set
+2016-03-21 18:58:00:224 TRACE [main] Bold is set
+2016-03-21 18:58:00:234 TRACE [main] Italic is set
+2016-03-21 18:58:00:234 TRACE [main] Underlined is set
+2016-03-21 18:58:00:254 TRACE [main] FontColorChooser is set
+2016-03-21 18:58:00:284 TRACE [main] ActiveTab: Welcome
+2016-03-21 18:58:00:294 TRACE [main] New document source is readed
+2016-03-21 18:58:00:310 TRACE [main] WrapEditorKit is set properly
+2016-03-21 18:58:00:326 TRACE [main] New document is shown properly in text area
+2016-03-21 18:58:00:326 TRACE [main] ClosePanel initiated
+2016-03-21 18:58:00:326 TRACE [main] Previously opened tabs are opened
+2016-03-21 18:58:00:326 TRACE [main] JTabbedPane initiated
+2016-03-21 18:58:00:366 TRACE [AWT-EventQueue-0] App Icon is set
+2016-03-21 18:58:00:781 TRACE [AWT-EventQueue-0] JFrame is set
+2016-03-21 18:58:13:066 ERROR [AWT-EventQueue-0] Save Button error: javax.swing.text.BadLocationException: Invalid location
+2016-03-21 18:58:13:066 ERROR [AWT-EventQueue-0] javax.swing.text.GapContent.getChars(Unknown Source)
+2016-03-21 18:58:13:066 ERROR [AWT-EventQueue-0] javax.swing.text.GapContent.getString(Unknown Source)
+2016-03-21 18:58:13:066 ERROR [AWT-EventQueue-0] javax.swing.text.AbstractDocument.getText(Unknown Source)
+2016-03-21 18:58:13:066 ERROR [AWT-EventQueue-0] src.SaveAction.performSaveAction(SaveAction.java:41)
+2016-03-21 18:58:13:066 ERROR [AWT-EventQueue-0] src.NoteFrame.lambda$2(NoteFrame.java:107)
+2016-03-21 18:58:13:066 ERROR [AWT-EventQueue-0] src.NoteFrame$$Lambda$16/830982.mouseClicked(Unknown Source)
+2016-03-21 18:58:13:066 ERROR [AWT-EventQueue-0] java.awt.AWTEventMulticaster.mouseClicked(Unknown Source)
+2016-03-21 18:58:13:066 ERROR [AWT-EventQueue-0] java.awt.Component.processMouseEvent(Unknown Source)
+2016-03-21 18:58:13:066 ERROR [AWT-EventQueue-0] javax.swing.JComponent.processMouseEvent(Unknown Source)
+2016-03-21 18:58:13:066 ERROR [AWT-EventQueue-0] java.awt.Component.processEvent(Unknown Source)
+2016-03-21 18:58:13:066 ERROR [AWT-EventQueue-0] java.awt.Container.processEvent(Unknown Source)
+2016-03-21 18:58:13:066 ERROR [AWT-EventQueue-0] java.awt.Component.dispatchEventImpl(Unknown Source)
+2016-03-21 18:58:13:066 ERROR [AWT-EventQueue-0] java.awt.Container.dispatchEventImpl(Unknown Source)
+2016-03-21 18:58:13:066 ERROR [AWT-EventQueue-0] java.awt.Component.dispatchEvent(Unknown Source)
+2016-03-21 18:58:13:066 ERROR [AWT-EventQueue-0] java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+2016-03-21 18:58:13:066 ERROR [AWT-EventQueue-0] java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+2016-03-21 18:58:13:066 ERROR [AWT-EventQueue-0] java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+2016-03-21 18:58:13:066 ERROR [AWT-EventQueue-0] java.awt.Container.dispatchEventImpl(Unknown Source)
+2016-03-21 18:58:13:066 ERROR [AWT-EventQueue-0] java.awt.Window.dispatchEventImpl(Unknown Source)
+2016-03-21 18:58:13:076 ERROR [AWT-EventQueue-0] java.awt.Component.dispatchEvent(Unknown Source)
+2016-03-21 18:58:13:076 ERROR [AWT-EventQueue-0] java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+2016-03-21 18:58:13:076 ERROR [AWT-EventQueue-0] java.awt.EventQueue.access$400(Unknown Source)
+2016-03-21 18:58:13:076 ERROR [AWT-EventQueue-0] java.awt.EventQueue$3.run(Unknown Source)
+2016-03-21 18:58:13:076 ERROR [AWT-EventQueue-0] java.awt.EventQueue$3.run(Unknown Source)
+2016-03-21 18:58:13:076 ERROR [AWT-EventQueue-0] java.security.AccessController.doPrivileged(Native Method)
+2016-03-21 18:58:13:076 ERROR [AWT-EventQueue-0] java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+2016-03-21 18:58:13:076 ERROR [AWT-EventQueue-0] java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+2016-03-21 18:58:13:076 ERROR [AWT-EventQueue-0] java.awt.EventQueue$4.run(Unknown Source)
+2016-03-21 18:58:13:076 ERROR [AWT-EventQueue-0] java.awt.EventQueue$4.run(Unknown Source)
+2016-03-21 18:58:13:076 ERROR [AWT-EventQueue-0] java.security.AccessController.doPrivileged(Native Method)
+2016-03-21 18:58:13:076 ERROR [AWT-EventQueue-0] java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+2016-03-21 18:58:13:076 ERROR [AWT-EventQueue-0] java.awt.EventQueue.dispatchEvent(Unknown Source)
+2016-03-21 18:58:13:076 ERROR [AWT-EventQueue-0] java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+2016-03-21 18:58:13:076 ERROR [AWT-EventQueue-0] java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+2016-03-21 18:58:13:076 ERROR [AWT-EventQueue-0] java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+2016-03-21 18:58:13:076 ERROR [AWT-EventQueue-0] java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2016-03-21 18:58:13:076 ERROR [AWT-EventQueue-0] java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2016-03-21 18:58:13:076 ERROR [AWT-EventQueue-0] java.awt.EventDispatchThread.run(Unknown Source)
+2016-03-21 18:58:13:076 TRACE [AWT-EventQueue-0] Document is saved
+2016-03-21 18:58:19:363 TRACE [noteFrameCloseThread] Empty new docs has been deleted
+2016-03-21 18:58:19:363 TRACE [noteFrameCloseThread] New file preferences.xml is created
+2016-03-21 18:58:19:363 TRACE [noteFrameCloseThread] Saving opened tab information: Welcome
+2016-03-21 18:58:19:427 TRACE [noteFrameCloseThread] All the opened tabs info saved to preferences.xml
+2016-03-21 18:58:19:427 TRACE [noteFrameCloseThread] preferences.xml saved successfully

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="INFO">
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{yyy-MM-dd HH:mm:ss:SSS} %-5level [%t] %msg%n" />
+        </Console>
+        <File name="FileLog" fileName="logFile.log" immediateFlush="true" append="false">
+            <PatternLayout pattern="%d{yyy-MM-dd HH:mm:ss:SSS} %-5level [%t] %msg%n"></PatternLayout>
+        </File>
+    </Appenders>
+    <Loggers>
+        <Root level="ALL">
+            <AppenderRef ref="Console" level="WARN" />
+            <AppenderRef ref="FileLog"/>
+        </Root>
+    </Loggers>
+</Configuration>

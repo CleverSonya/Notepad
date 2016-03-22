@@ -1,0 +1,49 @@
+
+
+Version:	3.8
+CmdLine:	M:\workspace\Notepad\MyNotepad.exe --l4j-debug
+WOW64:		yes
+Working dir:	M:\workspace\Notepad\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files (x86)\Java\jre1.8.0_20\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_20
+Check launcher:	C:\Program Files (x86)\Java\jre1.8.0_20\bin\javaw.exe (OK)
+Match:		1.8.0_20
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_05
+Ignore:		1.8.0_05
+Runtime used:	1.8.0_20 (32-bit)
+Launcher:	C:\Program Files (x86)\Java\jre1.8.0_20\bin\javaw.exe
+Launcher args:	-jar "M:\workspace\Notepad\MyNotepad.exe"
+Args length:	41/32768 chars
+Exit code:	0
+
+
+Version:	3.8
+CmdLine:	M:\workspace\Notepad\Notepad.exe --l4j-debug
+WOW64:		yes
+Working dir:	M:\workspace\Notepad\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_20
+Check launcher:	C:\Program Files (x86)\Java\jre1.8.0_20\bin\javaw.exe (OK)
+Match:		1.8.0_20
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_05
+Ignore:		1.8.0_05
+Runtime used:	1.8.0_20 (32-bit)
+Launcher:	C:\Program Files (x86)\Java\jre1.8.0_20\bin\javaw.exe
+Launcher args:	-jar "M:\workspace\Notepad\Notepad.exe"
+Args length:	39/32768 chars
+Exit code:	0
